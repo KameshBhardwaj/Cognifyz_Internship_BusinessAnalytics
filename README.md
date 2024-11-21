@@ -15,8 +15,8 @@ Welcome to my repository showcasing my internship at **Cognifyz Technologies** a
   1. Load the dataset into Python using pandas.
   2. Perform descriptive statistics to summarize the data.
 - **Files**:
-  - Notebook: `internship_analysis_task_1.ipynb`
-  - Dataset: `Dataset.csv`
+  - Notebook: [`internship_analysis_task_1.ipynb`](./internship_analysis_task_1.ipynb)
+  - Dataset: [`Dataset.csv`](./Dataset.csv)
 - **Key Results**:
   - Dataset contains 40 rows and 5 columns.
   - No missing values or duplicates.
@@ -29,8 +29,8 @@ Welcome to my repository showcasing my internship at **Cognifyz Technologies** a
   1. Extract the `gender` column and count the distribution.
   2. Create visualizations (bar chart and pie chart) to represent the data.
 - **Files**:
-  - Notebook: `internship_analysis_task_2.ipynb`
-  - Dataset: `Dataset.csv`
+  - Notebook: [`internship_analysis_task_2.ipynb`](./internship_analysis_task_2.ipynb)
+  - Dataset: [`Dataset.csv`](./Dataset.csv)
   - Video: The video for Task 2 is available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).
 - **Key Results**:
   - Gender counts: Male - 25, Female - 15.

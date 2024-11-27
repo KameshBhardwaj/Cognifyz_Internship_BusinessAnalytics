@@ -6,6 +6,10 @@ Welcome to my repository showcasing my internship at **Cognifyz Technologies** a
 
 - **Task 1: Data Overview** – Understanding the structure of the dataset and performing descriptive analysis.
 - **Task 2: Gender Distribution** – Visualizing the gender distribution in the dataset through graphical representations.
+- **Task 3: Descriptive Statistics** – Calculating the mean, median, and standard deviation for numerical columns.
+- **Task 4: Most Preferred Investment Avenue** – Identifying the most preferred investment avenue in the dataset.
+
+---
 
 ## Completed Tasks
 
@@ -38,6 +42,36 @@ Welcome to my repository showcasing my internship at **Cognifyz Technologies** a
 
 ---
 
+### **Task 3: Descriptive Statistics**
+- **Objective**: Calculate descriptive statistics for numerical columns in the dataset.
+- **Steps**:
+  1. Identify numerical columns using pandas.
+  2. Calculate mean, median, and standard deviation for each numerical column.
+- **Files**:
+  - Notebook: [`internship_analysis_task_3.ipynb`](./internship_analysis_task_3.ipynb)
+  - Dataset: [`Dataset.csv`](./Dataset.csv)
+  - Video: The video for Task 3 is available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).
+- **Key Results**:
+  - Numerical columns include age, Mutual Funds, Equity Market, Debentures, Government Bonds, Fixed Deposits, PPF, and Gold.
+  - Key statistics such as average age (27.8 years) and preferences across investments were identified.
+
+---
+
+### **Task 4: Most Preferred Investment Avenue**
+- **Objective**: Identify the most preferred investment avenue.
+- **Steps**:
+  1. Sum the scores for each investment avenue.
+  2. Identify the avenue with the highest score using pandas' `idxmax()` function.
+- **Files**:
+  - Notebook: [`internship_analysis_task_4.ipynb`](./internship_analysis_task_4.ipynb)
+  - Dataset: [`Dataset.csv`](./Dataset.csv)
+  - Video: The video for Task 4 is available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).
+- **Key Results**:
+  - Total scores: Gold (239), Debentures (230), Government Bonds (186), Fixed Deposits (143), Equity Market (139), Mutual Funds (102), PPF (81).
+  - The most preferred investment avenue is **Gold**, with a total score of 239.
+
+---
+
 ## Upcoming Tasks
 
 I will be updating this repository with more tasks as I progress through my internship at Cognifyz Technologies. Please check back for additional analyses and visualizations.
@@ -46,7 +80,7 @@ I will be updating this repository with more tasks as I progress through my inte
 
 1. Download the necessary files (Jupyter notebooks, dataset, and videos).
 2. Open the Jupyter notebook (`*.ipynb`) files to view and run the analysis.
-3. For videos, visit my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/) to watch Task 2.
+3. For videos, visit my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/) to watch Task 2, Task 3, and Task 4.
 4. Feel free to fork this repository and use it for learning purposes or contribute!
 
 ---

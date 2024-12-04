@@ -44,7 +44,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_2.ipynb`  
 - Dataset: `Dataset.csv`  
-- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kameshbhardwaj).  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - Gender counts: Male - 25, Female - 15.  
@@ -61,7 +61,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_3.ipynb`  
 - Dataset: `Dataset.csv`  
-- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kameshbhardwaj).  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - Numerical columns include age, Mutual Funds, Equity Market, Debentures, Government Bonds, Fixed Deposits, PPF, and Gold.  
@@ -78,7 +78,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_4.ipynb`  
 - Dataset: `Dataset.csv`  
-- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kameshbhardwaj).  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - Total scores: Gold (239), Debentures (230), Government Bonds (186), Fixed Deposits (143), Equity Market (139), Mutual Funds (102), PPF (81).  
@@ -96,7 +96,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_5.ipynb`  
 - Dataset: `Dataset.csv`  
-- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kameshbhardwaj).  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - The most common reasons for investment are:  
@@ -116,7 +116,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_6.ipynb`  
 - Dataset: `Dataset.csv`  
-- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kameshbhardwaj).  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - Participants' main savings objectives are:  
@@ -135,6 +135,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_7.ipynb`  
 - Dataset: `Dataset.csv`  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - The most common information sources for investment include:  
@@ -154,6 +155,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**  
 - Notebook: `internship_analysis_task_8.ipynb`  
 - Dataset: `Dataset.csv`  
+- Video: Available on my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).  
 
 **Key Results:**  
 - The average investment duration is approximately **2.98 years**.  
@@ -174,7 +176,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 
 1. Download the necessary files (Jupyter notebooks, dataset, and videos).  
 2. Open the Jupyter notebook (*.ipynb) files to view and run the analysis.  
-3. Visit my [LinkedIn profile](https://www.linkedin.com/in/kameshbhardwaj) to watch task videos.  
+3. Visit my [LinkedIn profile](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/) to watch task videos.  
 
 Feel free to fork this repository and use it for learning purposes or contribute!  
 
@@ -182,6 +184,6 @@ Feel free to fork this repository and use it for learning purposes or contribute
 
 ## Contact Information
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kameshbhardwaj) for further information or feedback.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/) for further information or feedback.
 
 Thank you for visiting!

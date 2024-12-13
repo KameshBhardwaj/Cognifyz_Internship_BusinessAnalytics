@@ -34,7 +34,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Dataset contains 40 rows and 5 columns.
 - No missing values or duplicates.
 
-**Presentation Video:** [Watch on LinkedIn](https://www.linkedin.com/posts/kamesh-bhardwaj-270005321_task-1-activity-7264634779197755395-l6a1?utm_source=share&utm_medium=member_desktop)
+**Presentation:** [Watch on LinkedIn](https://www.linkedin.com/posts/kamesh-bhardwaj-270005321_task-1-activity-7264634779197755395-l6a1?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -191,20 +191,20 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Objective:** Summarize participants' expectations from investments.
 
 **Steps:**
-- Explore the "Expectations" column to review participants' expectations.
-- Create a list and describe the common expectations mentioned.
+1. Explore the "Expectations" column to review participants' expectations.
+2. Create a list and describe the common expectations mentioned.
 
 **Files:**
-- Notebook: `internship_analysis_task_9.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_9.ipynb](./internship_analysis_task_9.ipynb)
+- [Dataset: Dataset.csv](./Dataset.csv)
 
 **Key Results:**
 - Common expectations include:
-  - 20%-30%: Mentioned 32 times
-  - 30%-40%: Mentioned 5 times
-  - 10%-20%: Mentioned 3 times
+  - **20%-30%**: Mentioned 32 times
+  - **30%-40%**: Mentioned 5 times
+  - **10%-20%**: Mentioned 3 times
 
-**Presentation Video:** [Watch on LinkedIn](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/)
+**Presentation Video:** [Watch on LinkedIn](https://www.linkedin.com/posts/kamesh-bhardwaj-270005321/)
 
 ---
 

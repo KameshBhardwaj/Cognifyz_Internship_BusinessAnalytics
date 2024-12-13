@@ -27,8 +27,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Perform descriptive statistics to summarize the data.
 
 **Files:**
-- Notebook: `internship_analysis_task_1.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_1.ipynb](internship_analysis_task_1.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - Dataset contains 40 rows and 5 columns.
@@ -47,8 +47,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Create visualizations (bar chart and pie chart) to represent the data.
 
 **Files:**
-- Notebook: `internship_analysis_task_2.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_2.ipynb](internship_analysis_task_2.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - Gender counts: Male - 25, Female - 15.
@@ -67,8 +67,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Calculate mean, median, and standard deviation for each numerical column.
 
 **Files:**
-- Notebook: `internship_analysis_task_3.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_3.ipynb](internship_analysis_task_3.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - Numerical columns include age, Mutual Funds, Equity Market, Debentures, Government Bonds, Fixed Deposits, PPF, and Gold.
@@ -87,8 +87,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Identify the avenue with the highest score using pandas' `idxmax()` function.
 
 **Files:**
-- Notebook: `internship_analysis_task_4.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_4.ipynb](internship_analysis_task_4.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - Total scores: Gold (239), Debentures (230), Government Bonds (186), Fixed Deposits (143), Equity Market (139), Mutual Funds (102), PPF (81).
@@ -108,8 +108,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Summarize the most common reasons.
 
 **Files:**
-- Notebook: `internship_analysis_task_5.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_5.ipynb](internship_analysis_task_5.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - The most common reasons for investment are:
@@ -131,8 +131,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Summarize the main objectives.
 
 **Files:**
-- Notebook: `internship_analysis_task_6.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_6.ipynb](internship_analysis_task_6.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - Participants' main savings objectives are:
@@ -153,8 +153,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Analyze the data to summarize the most common sources.
 
 **Files:**
-- Notebook: `internship_analysis_task_7.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_7.ipynb](internship_analysis_task_7.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - The most common information sources for investment are:
@@ -176,8 +176,8 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 - Map duration ranges to numerical values and calculate the average duration.
 
 **Files:**
-- Notebook: `internship_analysis_task_8.ipynb`
-- Dataset: `Dataset.csv`
+- [Notebook: internship_analysis_task_8.ipynb](internship_analysis_task_8.ipynb)
+- [Dataset: Dataset.csv](Dataset.csv)
 
 **Key Results:**
 - The average investment duration is approximately 2.98 years.
